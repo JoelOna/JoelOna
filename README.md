@@ -29,5 +29,10 @@ Here are some ideas to get you started:
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  
 </p>
----
-About me 
+<hr>
+<h3>⚡ About me </h3>
+- 🌍 Barcelona, Spain<br>
+- 👾 Valorant, LoL , sim racing player
+<hr> 
+<h3>Bio</h3>
+- 🙋‍♂️ Junior backend developer, interested in improve fronted technologies

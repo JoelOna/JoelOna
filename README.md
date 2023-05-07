@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:man_technologist:What I code with
+<h3>⚡ About me </h3>
+- 🙋‍♂️ Junior backend developer<br>
+- 🌍 Barcelona, Spain<br>
+- 👾 Valorant, LoL , sim racing player
+<hr>
+<h3>:man_technologist:Technologies I know</h3>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -27,12 +32,7 @@ Here are some ideas to get you started:
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-dbe1a6?style=flat-square&logo=mysql" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
- 
 </p>
-<hr>
-<h3>⚡ About me </h3>
-- 🌍 Barcelona, Spain<br>
-- 👾 Valorant, LoL , sim racing player
-<hr> 
-<h3>Bio</h3>
-- 🙋‍♂️ Junior backend developer, interested in improve fronted technologies
+
+
+

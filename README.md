@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-
+<hr>
+<h3>💻 I'm working in </h3>
+<a href="https://github.com/JoelOna/rick-and-morty" style="text-decoration:none;">Ricky and morty </a> project, that is being coded in typescript using Angular.
 

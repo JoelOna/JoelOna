@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>⚡ About me </h3>
-- 🙋‍♂️ Junior backend developer<br>
+- 🙋‍♂️ Junior FullStack developer<br>
 - 🌍 Barcelona, Spain<br>
 - 👾 Valorant, LoL , sim racing player
 <hr>

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🙋‍♂️ Junior Full Stack developer <br>
 - 🌍 Barcelona, Spain<br>
 - 👾 Valorant, LoL , sim racing player<br>
-- 🌱 I’m currently learning React <br>
+- 🌱 I’m currently learning Vue.js <br>
 
 
 ## 🌐 Socials:
